@@ -6,3 +6,4 @@ G:\CSharpIntermediate\Section4\DBClassesLib\obj\Debug\netcoreapp3.1\DBClassesLib
 G:\CSharpIntermediate\Section4\DBClassesLib\obj\Debug\netcoreapp3.1\DBClassesLib.AssemblyInfo.cs
 G:\CSharpIntermediate\Section4\DBClassesLib\obj\Debug\netcoreapp3.1\DBClassesLib.dll
 G:\CSharpIntermediate\Section4\DBClassesLib\obj\Debug\netcoreapp3.1\DBClassesLib.pdb
+G:\CSharpIntermediate\Section4\DBClassesLib\obj\Debug\netcoreapp3.1\DBClassesLib.csprojAssemblyReference.cache

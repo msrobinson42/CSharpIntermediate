@@ -1,0 +1,16 @@
+G:\CSharpIntermediate\S5Exercises\bin\Debug\netcoreapp3.1\S5Exercises.exe
+G:\CSharpIntermediate\S5Exercises\bin\Debug\netcoreapp3.1\S5Exercises.deps.json
+G:\CSharpIntermediate\S5Exercises\bin\Debug\netcoreapp3.1\S5Exercises.runtimeconfig.json
+G:\CSharpIntermediate\S5Exercises\bin\Debug\netcoreapp3.1\S5Exercises.runtimeconfig.dev.json
+G:\CSharpIntermediate\S5Exercises\bin\Debug\netcoreapp3.1\S5Exercises.dll
+G:\CSharpIntermediate\S5Exercises\bin\Debug\netcoreapp3.1\S5Exercises.pdb
+G:\CSharpIntermediate\S5Exercises\bin\Debug\netcoreapp3.1\S5ExercisesLib.dll
+G:\CSharpIntermediate\S5Exercises\bin\Debug\netcoreapp3.1\S5ExercisesLib.pdb
+G:\CSharpIntermediate\S5Exercises\obj\Debug\netcoreapp3.1\S5Exercises.csprojAssemblyReference.cache
+G:\CSharpIntermediate\S5Exercises\obj\Debug\netcoreapp3.1\S5Exercises.csproj.CoreCompileInputs.cache
+G:\CSharpIntermediate\S5Exercises\obj\Debug\netcoreapp3.1\S5Exercises.AssemblyInfoInputs.cache
+G:\CSharpIntermediate\S5Exercises\obj\Debug\netcoreapp3.1\S5Exercises.AssemblyInfo.cs
+G:\CSharpIntermediate\S5Exercises\obj\Debug\netcoreapp3.1\S5Exercises.csproj.CopyComplete
+G:\CSharpIntermediate\S5Exercises\obj\Debug\netcoreapp3.1\S5Exercises.dll
+G:\CSharpIntermediate\S5Exercises\obj\Debug\netcoreapp3.1\S5Exercises.pdb
+G:\CSharpIntermediate\S5Exercises\obj\Debug\netcoreapp3.1\S5Exercises.genruntimeconfig.cache

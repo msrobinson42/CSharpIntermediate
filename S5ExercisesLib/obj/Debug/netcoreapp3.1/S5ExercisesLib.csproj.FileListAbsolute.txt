@@ -1,0 +1,8 @@
+G:\CSharpIntermediate\S5ExercisesLib\bin\Debug\netcoreapp3.1\S5ExercisesLib.deps.json
+G:\CSharpIntermediate\S5ExercisesLib\bin\Debug\netcoreapp3.1\S5ExercisesLib.dll
+G:\CSharpIntermediate\S5ExercisesLib\bin\Debug\netcoreapp3.1\S5ExercisesLib.pdb
+G:\CSharpIntermediate\S5ExercisesLib\obj\Debug\netcoreapp3.1\S5ExercisesLib.csproj.CoreCompileInputs.cache
+G:\CSharpIntermediate\S5ExercisesLib\obj\Debug\netcoreapp3.1\S5ExercisesLib.AssemblyInfoInputs.cache
+G:\CSharpIntermediate\S5ExercisesLib\obj\Debug\netcoreapp3.1\S5ExercisesLib.AssemblyInfo.cs
+G:\CSharpIntermediate\S5ExercisesLib\obj\Debug\netcoreapp3.1\S5ExercisesLib.dll
+G:\CSharpIntermediate\S5ExercisesLib\obj\Debug\netcoreapp3.1\S5ExercisesLib.pdb

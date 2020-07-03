@@ -6,15 +6,16 @@ namespace DBClassesLib
 {
     public abstract class DbConnection
     {
-        private readonly string _connectionString;
-        private readonly TimeSpan _timeOut;
+
+        protected string ConnectionString { get; }
+        protected TimeSpan Timeout { get; }
 
         public DbConnection(string connectionString, TimeSpan timeout)
         {
-            _connectionString = string.IsNullOrWhiteSpace(connectionString)
+            ConnectionString = string.IsNullOrWhiteSpace(connectionString)
                 ? throw new ArgumentException($"{nameof(connectionString)} was either null or was White Space", nameof(connectionString))
                 : connectionString.Trim();
-            _timeOut = timeout;
+            Timeout = timeout;
         }
 
         public abstract void Open();

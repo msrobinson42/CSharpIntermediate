@@ -11,13 +11,12 @@ namespace DBClassesLib
 
         public DbCommand(DbConnection dbConnection, string command)
         {
-            _dbConnection = dbConnection is null 
-                ? throw new ArgumentNullException(nameof(dbConnection))
-                : dbConnection;
 
             _command = string.IsNullOrWhiteSpace(command)
                 ? throw new ArgumentException(nameof(command))
                 : command;
+
+            _dbConnection = dbConnection ?? throw new ArgumentNullException(nameof(dbConnection));
         }
 
         public void Execute()
